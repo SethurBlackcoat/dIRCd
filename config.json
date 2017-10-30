@@ -1,0 +1,15 @@
+﻿{
+  "token": "example.token",
+  "smileyMapping": {
+    ":discord-1:": "^_^",
+    ":discord-2:": ":lol:"
+  },
+  "excludedGuilds": [
+    012345678910111213
+  ],
+  "excludedChannels": [
+    141516171819202122,
+    232425262728293031
+  ],
+  "logLevel": 3
+}
